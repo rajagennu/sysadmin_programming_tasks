@@ -2,7 +2,7 @@ Any Sys Administrator / DevOps Engineer would like to learn new language, can fo
 
 # Programming Tasks
 
-[ ] Execute `uptime` command and fetch load of the given system
+[X] Execute `uptime` command and fetch load of the given system
 
 [ ] Connect to a remote host/server and execute the same uptime command `uptime` and fetch the output.
 
